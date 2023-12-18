@@ -1,0 +1,3 @@
+[submodule "services/battery/mavlink"]
+	path = services/battery/mavlink
+	url = git@github.com:Auterion/mavlink.git

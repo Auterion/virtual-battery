@@ -1,0 +1,11 @@
+auterion-api-version: 2
+auterion-app-base: none
+
+app-name: virtual-battery
+app-author: com.auterion
+app-version: 8592b49
+target-platform: skynode
+
+services:
+  battery:
+    build: services/battery
